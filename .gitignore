@@ -1,0 +1,13 @@
+secrets/
+license/
+data/
+reports/
+state/
+models/
+backups/
+arx/lib/*.jar
+arx/target/
+arx/out/
+__pycache__/
+*.pyc
+.env
